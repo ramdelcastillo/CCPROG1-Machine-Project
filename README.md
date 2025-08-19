@@ -1,5 +1,8 @@
 ## CCPROG1 Machine Project
-<b>Titan</b>: A Turn-Based RPG is a text-based adventure game in C inspired by Dungeons & Dragons mechanics. Players battle monsters, upgrade stats through shops, and face the final boss, Destro, the Great Beast of Titan, while managing health, power, and resources.<br><br>
+<p align="justify">
+<b>Titan</b>: A Turn-Based RPG is a text-based adventure game in C inspired by Dungeons & Dragons mechanics. Players battle monsters, upgrade stats through shops, and face the final boss, Destro, the Great Beast of Titan, while managing health, power, and resources.<br>
+</p>
+
 Created by: Jose Mari Del Castillo <br>
 Submission Date: AY 2021-2022, Term 2	
 ##
